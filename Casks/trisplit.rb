@@ -1,6 +1,6 @@
 cask "trisplit" do
-  version "2.1.0"
-  sha256 "5ade8be422ef43d378878a26e7c2bb723119bb7f202a88963575a06d43a620f5"
+  version "2.2.0"
+  sha256 "6ebc5eea6f5e726218ea257ac032ba0b7ce24d80a29623c1170a94b60363a425"
 
   url "https://github.com/pocharlies-org/trisplit/releases/download/v#{version}/Trisplit-#{version}.zip"
   name "Trisplit"
